@@ -1,6 +1,6 @@
 # Hello world ! 👋
 ## Who I am ?
-I'm french apprentice on network & cybersecurity, passionate about programming
+I'm a french apprentice on network & cybersecurity, passionate about programming
 
 ## Stats
 
