@@ -18,5 +18,5 @@ I'm a french apprentice on network & cybersecurity, passionate about programming
   <img align="left" alt="CSS3" title="CSS3" width="32px" src="https://i.imgur.com/QjDQazD.png" />
   <img align="left" alt="Linux" title="Linux" width="32px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
   <img align="left" alt="Jetbrains Tools" title="Jetbrains Tools" width="32px" src="https://i.imgur.com/iwVAXSE.png" />
-  <img align="left" alt="React" title="React" width="32px" src="https://i.imgur.com/7oaoxts.png" />
+  <img align="left" alt="React" title="React" width="32px" src="https://i.imgur.com/mfIYuN2.png" />
 </div>
